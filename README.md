@@ -1,16 +1,16 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um video curto utilizando heygen e elevenlabs com um personagem/meme popular em um modo de face swap.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+HeyGen para geração do avatar e o face swap + eleven labs para uma voz parecida.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Com base nas recomendações de ferramentas de curso e um pouco de criatividade.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Video: https://drive.google.com/file/d/1QW1xdBIH59WnlCbODcECw8Q9NarCsx5L/view?usp=sharing
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É a primeira vez que crio algo, bem básico mas o mais importante é iniciar. Utilizando ferramentas gratuitas da para explorar muita coisa!
