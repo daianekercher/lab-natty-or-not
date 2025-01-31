@@ -1,5 +1,3 @@
-# Título do Projeto Extremamente Aesthetic ;)
-
 ## 📒 Descrição
 Um video curto utilizando heygen e elevenlabs com um personagem/meme popular em um modo de face swap.
 
